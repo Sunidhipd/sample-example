@@ -20,9 +20,7 @@ aside{
     float:left;
     width:20%;
 }
-footer{
-    clear:both;
-}
+
 ul a:hover{
     text-decoration: underline;
     color: black;
