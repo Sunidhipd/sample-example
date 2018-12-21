@@ -1,0 +1,12 @@
+a{
+    color: green; text-decoration: underline;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+div{
+    width:500px;
+    margin: auto;
+    background: brown;
+    text-align: center;
+}
